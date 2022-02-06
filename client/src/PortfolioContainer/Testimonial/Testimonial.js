@@ -127,7 +127,7 @@ export default function Testimonial(props) {
                   <div className="testi-comment">
                     <p>
                     <i className="fa fa-quote-left" />
-                        Matth was able to pickup an existing project quickly. We needed him to learn an app and he was willing and eager to do so!
+                        Matt was able to pickup an existing project quickly. We needed him to learn an app and he was willing and eager to do so!
                       <i className="fa fa-quote-right" />
                     </p>
                     <ul className="stars list-unstyled">
